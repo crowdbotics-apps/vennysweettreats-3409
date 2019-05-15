@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT vennysweettreats_3409.wsgi:application
